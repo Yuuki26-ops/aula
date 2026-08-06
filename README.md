@@ -10,3 +10,6 @@ Faculdade de Tecnologia de Tatuí
 
     #Programador
     - Diogo Bruno
+
+    Repetição até a exaustão, com
+    correção leva a perfeição
