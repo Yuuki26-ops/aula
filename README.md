@@ -5,5 +5,8 @@ Faculdade de Tecnologia de Tatuí
     Linguagens de Programação
 
     # Aprendendo JavaScript
-    
+
     # Vai Corintha!
+
+    #Programador
+    - Diogo Bruno
